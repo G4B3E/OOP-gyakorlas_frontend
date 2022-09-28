@@ -13,7 +13,9 @@ function Hozzaad(){
     let y = document.getElementById("hossz").value;
     
     let obj = new Zene(x,y);
+    lista.push(obj);
+    console.log(lista);
 }
-
+let lista = [];
 
 
