@@ -9,5 +9,6 @@ function Hozzaad(){
     document.getElementById("cim").value;
     document.getElementById("hossz").value;
     
+    
 }
 
